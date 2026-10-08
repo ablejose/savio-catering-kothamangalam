@@ -1,0 +1,39 @@
+{
+  "slug": "savio-catering-kothamangalam",
+  "name": "Savio Catering",
+  "shortName": "Savio",
+  "descriptor": "Catering Services",
+  "address": "PO, Kozhippilly, Kothamangalam, Keralam 686691",
+  "area": "Kothamangalam",
+  "city": "Kothamangalam",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "686691",
+  "geo": {
+    "lat": 10.0501199,
+    "lng": 76.6335367
+  },
+  "mapsLink": "https://maps.google.com/?cid=12011211420404490838",
+  "phone": "+91 94469 30282",
+  "whatsapp": "919446930282",
+  "hours": "Open 7:30 am – 8:30 pm · all days",
+  "opens": "07:30",
+  "closes": "20:30",
+  "rating": 4.4,
+  "reviewCount": 8,
+  "reviews": [
+    {
+      "name": "Mariya Martin",
+      "rating": 5,
+      "quote": "Very good food and very good service,and very hygiene kitchen"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://savio-catering-kothamangalam.vercel.app"
+}
